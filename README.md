@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abinash Regmi</h1>
 <h3 align="center">Developer | Problem Solver | Tech Enthusiast from Nepal</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=abinashregmi&label=Profile%20views&color=0e75b6&style=flat" alt="abinashregmi" /> 
