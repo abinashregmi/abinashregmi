@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abinash Regmi</h1>
 <h3 align="center">Developer | Problem Solver | Tech Enthusiast from Nepal</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=abinashregmi&label=Profile%20views&color=0e75b6&style=flat" alt="abinashregmi" /> 
@@ -71,19 +71,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abinashregmi&theme=github-compact&hide_border=true&area=true" alt="Abinash's Contribution Graph" />
 </p>
 
-<!-- GitHub Streak Stats and Additional Metrics -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=abinashregmi&theme=default&hide_border=true" alt="GitHub Streak Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinashregmi&layout=compact&theme=default&hide_border=true" alt="Most Used Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinashregmi&layout=compact&theme=default&hide_border=true" alt="Most Used Languages" />
+</p>
 
 <!-- Additional Contribution Stats -->
 <div align="center">
@@ -95,13 +86,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abinashregmi&theme=default&utcOffset=5.45" alt="Productive Time" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abinashregmi&theme=default" alt="Repos per Language" />
 </div>
-
----
-
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abinashregmi&theme=flat&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
 
 ---
 
