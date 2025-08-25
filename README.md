@@ -16,7 +16,7 @@
   <a href="https://regmiabinas.com.np" target="_blank">**regmiabinas.com.np**</a>  
 - 💬 Open to discussions on **programming concepts, logical reasoning, and real-world software development**.  
 - 📫 Reach me at: **abinashregmi01234@gmail.com**  
-- ⚡ Philosophy: *“Every bug is an opportunity to learn, not a setback.”*  
+- ⚡ Philosophy: *"Every bug is an opportunity to learn, not a setback."*  
 
 ---
 
@@ -60,5 +60,51 @@
 ---
 
 ### 📊 GitHub Insights
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abinashregmi&show_icons=true&locale=en" alt="abinashregmi" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abinashregmi&" alt="abinashregmi" /></p>
+
+<!-- GitHub Stats Card -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abinashregmi&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Abinash's GitHub Stats" />
+</p>
+
+<!-- Contribution Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abinashregmi&theme=github-compact&hide_border=true&area=true" alt="Abinash's Contribution Graph" />
+</p>
+
+<!-- GitHub Streak Stats and Additional Metrics -->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=abinashregmi&theme=default&hide_border=true" alt="GitHub Streak Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinashregmi&layout=compact&theme=default&hide_border=true" alt="Most Used Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Additional Contribution Stats -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abinashregmi&theme=default" alt="Profile Summary" />
+</div>
+
+<!-- Contribution Calendar (Similar to second image style) -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abinashregmi&theme=default&utcOffset=5.45" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abinashregmi&theme=default" alt="Repos per Language" />
+</div>
+
+---
+
+### 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abinashregmi&theme=flat&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+<div align="center">
+  <i>⭐ From <a href="https://github.com/abinashregmi">abinashregmi</a></i>
+</div>
