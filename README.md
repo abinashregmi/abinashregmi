@@ -31,7 +31,7 @@ _"Every bug is an opportunity to learn, not a setback."_
 💡 I believe in **continuous learning** and strive to **push boundaries** while exploring new ideas and implementing efficient solutions.  
 
 🌐 Explore more on my personal websites:  
-<a href="https://regmiabinas.com.np" target="_blank">**regmiabinas72.com.np**</a>  
+<a href="https://regmiabinash72.com.np" target="_blank">**regmiabinash72.com.np**</a>  
 
 📫 Reach me at: **abinashregmi01234@gmail.com**
 
